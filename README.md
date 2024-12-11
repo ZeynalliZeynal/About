@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node, Next and Oracle**
 
-- 💬 Can help you with **react, next, js, html, css, sass & scss, ui libraries, database, and etc.**
+- 💬 Can help you with **react, next, js, html, css, sass & scss, ui libraries, node & express, and etc.**
 
 - 📫 How to reach me **zzeynalli446@gmail.com**
 
